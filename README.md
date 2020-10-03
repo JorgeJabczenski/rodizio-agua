@@ -4,7 +4,7 @@ Para adaptar para você é só achar seu grupo [aqui](http://site.sanepar.com.br
 
 Garanta as permissões de execução pro script
 ```
-chmod 700 agua.sh
+sudo chmod 700 agua.sh
 ``` 
 Rode com
 ```
